@@ -1,0 +1,26 @@
+body {
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://s3.eu-central-1.amazonaws.com/sol-assets/uploads/public/5e6/b73/c01/thumb_364317_900_0_0_0_auto.png");
+}
+
+#container {
+    background-color: gray;
+    border: 5px solid white;
+    height: 275px;
+    width: 750px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#btn {
+    margin: 50px auto;
+    height: 50px;
+    width: 250px;
+    font-size: 22px;
+    background-color:rgb(29, 29, 29);
+    color: white;
+}
+
